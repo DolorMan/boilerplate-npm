@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chathura",
-	"description": "This is a node program",
+	"description": "This is a node program by chathura",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
