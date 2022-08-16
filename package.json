@@ -3,6 +3,7 @@
 	"author": "Chathura",
 	"description": "This is a node program by chathura",
 	"keywords": ["freecodecamp","node","usecase"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
