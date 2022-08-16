@@ -4,6 +4,7 @@
 	"description": "This is a node program by chathura",
 	"keywords": ["freecodecamp","node","usecase"],
 	"license": "MIT",
+	"version": "8.11",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
